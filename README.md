@@ -2,7 +2,7 @@ Hi 👋,I'm Nitish kumar
 <h1 align="center">Hi 👋, I'm Nitish kumar</h1>
 <h3 align="center">A passionate frontend &Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Frontend and Backend,JAVA,Python,Tkinter,MySQL,Streamlit**
+- 🌱 I’m currently learning **Frontend and Backend,JAVA,Python,Tkinter,MySQL,Streamlit also AI&ML **
 
 - 📫 How to reach me **nitishkumar7791@gmail.com**
 
