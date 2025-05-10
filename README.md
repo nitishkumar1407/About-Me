@@ -1,3 +1,4 @@
+![logo](https://github.com/nitishkumar1407/About-Me/blob/main/Git%20Banner%20.png)
 
 <h1 align="center">Hi 👋, I'm Nitish kumar</h1>
 <h3 align="center">A passionate frontend &Backend developer from India</h3>
