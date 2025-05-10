@@ -7,6 +7,8 @@ Hi 👋,I'm Nitish kumar
 - 📫 How to reach me **nitishkumar7791@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<img align="right" alt="coding" width=400 src="![image](https://github.com/user-attachments/assets/03b289fa-b8e5-47ff-b1fe-85a38a832f58)"
 <p align="left">
 <a href="https://twitter.com/@nitishkumar7791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitishkumar7791" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitish07kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish07kumar" height="30" width="40" /></a>
