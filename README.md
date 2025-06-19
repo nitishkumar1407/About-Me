@@ -29,5 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishkumar1407&show_icons=true&locale=en" alt="nitishkumar1407" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishkumar1407&" alt="nitishkumar1407" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishkumar1407&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</p>
 
